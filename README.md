@@ -1,5 +1,3 @@
-# nyc_restraurant_inspections
-
 # Analysis of NYC Restaurant Inspections
 
 Data from [NYC Open Data](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j/about_data).
